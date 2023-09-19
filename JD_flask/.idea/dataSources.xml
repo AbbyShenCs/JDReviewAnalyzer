@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="JDcomment1000.db" uuid="7e7d441a-3174-4cf0-98ff-4f2e42461400">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\shen\Desktop\JD_flask\JDcomment1000.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
